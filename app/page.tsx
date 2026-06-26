@@ -162,8 +162,8 @@ export default function App() {
             </p>
             
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <a href="mailto:hello@parallaxdrive.xyz" className="bg-black text-white px-8 py-4 rounded font-bold text-lg hover:bg-gray-900 transition-colors flex items-center justify-center gap-2">
-                <Mail size={20} /> Email hello@parallaxdrive.xyz
+              <a href="mailto:infoo@parallaxdrive.xyz" className="bg-black text-white px-8 py-4 rounded font-bold text-lg hover:bg-gray-900 transition-colors flex items-center justify-center gap-2">
+                <Mail size={20} /> Email info@parallaxdrive.xyz
               </a>
             </div>
           </div>
